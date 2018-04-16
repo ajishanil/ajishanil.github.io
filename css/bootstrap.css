@@ -10,9 +10,9 @@ html {
       -ms-text-size-adjust: 100%;
 }
 body {
+   background-image: url("https://agenciamarketinghoteles.com/wp-content/uploads/2017/09/Online-Marketing.jpg");
   background-attachment: fixed;
-  background-image: url("https://agenciamarketinghoteles.com/wp-content/uploads/2017/09/Online-Marketing.jpg");
-  background-repeat: no-repeat;
+   background-repeat: no-repeat;
   background-size: cover;
 }
 article,
